@@ -1,4 +1,3 @@
 # OpenGLTerrainGenerator
 
-This project, written in C++ and utilizing OpenGL, aims to procedurally generate realistic terrains by employing a combination of noise functions and linear blending.
-Additionally, it explores the creation of lifelike water effects using shaders.
+This C++ project, using OpenGL, procedurally generates realistic terrains with noise functions and linear blending. It also simulates lifelike water using shaders. You can adjust terrain generation parameters in real-time using the ImGUI graphical interface.
